@@ -1,0 +1,1 @@
+ALLOWED_HOSTS = ['alexljxa.fvds.ru']
